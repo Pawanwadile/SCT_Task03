@@ -54,7 +54,7 @@ Build a user-interactive web application with real-time feedback.
 
 👩‍💻 Author
 
-Name: Nikita Bapu Borse
+Name: Pawan Sunil Wadile 
 Internship: SkillCraft Technology – Web Development Internship
 Task: Task 3 – Interactive Multiple-Choice Quiz Game using HTML, CSS & JavaScript
 
